@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "MyLoginApp"
 include(":app")
+include(":app")
  
